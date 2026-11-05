@@ -766,7 +766,7 @@ A massa está no próprio `docs/script.sql` e é fictícia (nomes, CPFs, telefon
 
 ## 5. Repositório GitHub
 
-Conteúdo: relatório (este README), [dicionário de dados](dicionario_de_dados.md), [DER](DER_conceitual.png), [modelo lógico](modelo_logico.png), [levantamento](levantamento.md), [evidências](./) e [script SQL](script.sql), e [slides](Pitch%20EK%20Consult%C3%B3rio%20Odontol%C3%B3gico%20%281%29.pdf). [PENDENTE: commits de todos os integrantes]
+Conteúdo: relatório (este README), [dicionário de dados](dicionario_de_dados.md), [DER](DER_conceitual.png), [modelo lógico](modelo_logico.png), [levantamento](levantamento.md), [evidências](./) e [script SQL](script.sql), e [slides](Pitch%20EK%20Consult%C3%B3rio%20Odontol%C3%B3gico%20%281%29.pdf). 
 
 ---
 
